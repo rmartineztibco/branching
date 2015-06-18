@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 1.- This is rodro
+=======
+1.- This is a second test from daquino-ft-c
+>>>>>>> daquino-ft-c
 2.- is
 3.- a
 4.- simple
